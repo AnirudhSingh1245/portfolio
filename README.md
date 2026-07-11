@@ -30,12 +30,6 @@ This portfolio was designed and developed to create a professional online presen
 - Vercel (Deployment)
 - Git & GitHub
 
-## 📷 Preview
-
-![Portfolio Preview](preview.png)
-
-> *Replace `preview.png` with a screenshot of your homepage.*
-
 ## 📂 Run Locally
 
 Clone the repository:
